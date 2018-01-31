@@ -8,7 +8,7 @@ function forLoop(array) {
    else {
      makeArray.push(`I am ${i} strange loops.`)
   } 
- }return (makeArray)
+ } return (makeArray)
 }
 
 // #2 this one passes
